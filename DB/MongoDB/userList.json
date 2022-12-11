@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "5fc1dbc2c99cf81dbfc4b73a"
+  },
+  "casepart": {
+    "name": "ABKO SUITMASTER 290G 위저드 강화유리",
+    "manufacturer": "ABKO",
+    "price": 51500,
+    "size": "미들타워",
+    "standard": "ATX",
+    "cooler_size": 160,
+    "vga_size": 330,
+    "radiator_size": 360
+  },
+  "coolerpart": {
+    "manufacturer": "DEEPCOOL",
+    "name": "DEEPCOOL GAMMAXX 400 V2",
+    "price": 23000,
+    "height": 155,
+    "method": "공냉"
+  },
+  "cpupart": {
+    "manufacturer": "AMD",
+    "name": "AMD 라이젠5-4세대 5600X (버미어)",
+    "price": 390330,
+    "socket": "AM4",
+    "core": 6,
+    "thread": 12,
+    "clock": "3.7",
+    "graphic": false
+  },
+  "mainboardpart": {
+    "manufacturer": "ASRock",
+    "name": "ASRock B450M-HDV R4.0 에즈윈",
+    "price": 81800,
+    "standard": "M-ATX",
+    "socket": "AM4",
+    "chipset": "B450"
+  },
+  "powerpart": {
+    "manufacturer": "잘만",
+    "powercol": "null",
+    "name": "잘만 GigaMax 550W 80PLUS Bronze 230V EU",
+    "price": 45220,
+    "power": 550
+  },
+  "rampart": {
+    "manufacturer": "삼성전자",
+    "name": "삼성전자 DDR4-3200 8GB",
+    "price": 32560,
+    "capacity": 8,
+    "clock": 3200,
+    "set": 4
+  },
+  "storagepart": {
+    "manufacturer": "WD",
+    "name": "Western Digital WD BLACK SN750 M.2 NVMe 250GB",
+    "price": 80000,
+    "type": "M.2",
+    "capacity": "250GB"
+  },
+  "vgapart": {
+    "manufacturer": "COLORFUL",
+    "name": "COLORFUL 지포스 GTX 1660 토마호크 D5 6GB",
+    "price": 245000,
+    "chipset": "GTX 1660",
+    "gddr": 6,
+    "length": 222,
+    "power": 120
+  },
+  "user_token": "112616217991408325495"
+},{
+  "_id": {
+    "$oid": "5fc1ea426ef01b18b356d668"
+  },
+  "cpupart": {
+    "manufacturer": "INTEL",
+    "name": "인텔 코어i3-9세대 9100F (커피레이크-R)",
+    "price": 81200,
+    "socket": "1151v2",
+    "core": 4,
+    "thread": 4,
+    "clock": "3.6",
+    "graphic": false
+  },
+  "mainboardpart": {
+    "manufacturer": "MSI",
+    "name": "MSI B360M 박격포",
+    "price": 88900,
+    "standard": "M-ATX",
+    "socket": "1151v2",
+    "chipset": "B360"
+  },
+  "user_token": "101600944031404696178"
+}]

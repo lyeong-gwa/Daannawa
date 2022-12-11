@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">다안나와</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="use">
+        <item>사무용</item>
+        <item>디자인용</item>
+        <item>게임용</item>
+    </string-array>
+
+    <string-array name="use_design">
+        <item>간단한 디자인_30만원대</item>
+        <item>간단한 포토샵_50만원대</item>
+        <item>간단한 포토샵_70만원대</item>
+        <item>전문적인 포토샵_100만원대</item>
+        <item>전문적인 포토샵_110만원대</item>
+    </string-array>
+
+    <string-array name="use_game">
+        <item>롤_30만원대</item>
+        <item>오버워치_50만원대</item>
+        <item>오버워치_60만원대</item>
+        <item>배그_90만원대</item>
+        <item>배그_130만원대</item>
+        <item>배그_140만원대</item>
+    </string-array>
+
+</resources>
