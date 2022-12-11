@@ -3,7 +3,7 @@
 
 ---
 ‼ private repository에서 작업한 후 완성된 최종본입니다. API Key 관리를 따로 하지 않아 부득이하게 따로 repository를 생성하게 되었습니다. 
-팀원 repository에서 새롭게 불러온 repository입니다.😥
+팀원 repository에서 새롭게 불러왔습니다.😥
 ---
 
 ![image](https://user-images.githubusercontent.com/77712564/158940200-27275bf6-8c80-4698-9af5-2294adbcbe08.png)
